@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<connections >
+	<connection from="1i" to="2o" fromLane="1" toLane="1"/>
+	<connection from="1i" to="3o" fromLane="0" toLane="0"/>
+	<connection from="1i" to="4o" fromLane="2" toLane="2" shape="152.29,159.16 153.58,159.30 156.63,160.38 159.05,162.41 160.57,164.49 161.42,166.82 161.86,169.45 "/>
+	<connection from="2i" to="3o" fromLane="2" toLane="2" shape="169.48,161.90 166.68,161.53 164.33,160.47 162.21,158.86 160.36,156.39 159.53,154.38 159.05,151.56"/>
+	<connection from="2i" to="4o" fromLane="0" toLane="0"/>
+	<connection from="2i" to="1o" fromLane="1" toLane="1"/>
+	<connection from="3i" to="4o" fromLane="1" toLane="1"/>
+	<connection from="3i" to="1o" fromLane="2" toLane="2" shape="161.69,151.56 161.50,154.00 160.49,156.49 158.57,159.05 156.61,160.46 154.74,161.29 151.60,161.75"/>
+	<connection from="3i" to="2o" fromLane="0" toLane="0"/>
+	<connection from="4i" to="1o" fromLane="0" toLane="0"/>
+	<connection from="4i" to="2o" fromLane="2" toLane="2" shape="159.00, 151.53 159.70,154.51 160.49,156.52 162.13,158.66 164.41,160.55 167.64,161.73 169.44,161.87"/>
+	<connection from="4i" to="3o" fromLane="1" toLane="1"/>	
+</connections>
+
